@@ -18,10 +18,12 @@ A best hardware choice has initially been determined based on the requirements a
 The initial choice is documented in the [hardware choice](scenarios/hardware_choice.docx) document. 
 
 #### Build application and test
-TODO: Build out your application and test its performance on the DevCloud using multiple hardware types
+TODO: Build out your application and job submission code
 
 #### Compare performance
-TODO: Compare the performance to see which hardware performed best
+TODO: 
+- Test performance on the DevCloud using multiple hardware types
+- Compare the performance to see which hardware performed best
 
 #### Revise hardware choice
 TODO: Revise proposal based on the test results
