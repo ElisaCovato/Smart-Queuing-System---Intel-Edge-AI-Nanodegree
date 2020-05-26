@@ -1,0 +1,3 @@
+Total inference time (s): 26.7
+Frame per second: 6.217228464419476
+Model loading time (s): 2.8889434337615967

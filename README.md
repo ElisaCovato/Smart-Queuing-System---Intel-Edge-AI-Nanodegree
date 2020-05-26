@@ -10,21 +10,22 @@ The aim of the project is to develop a _smart queuing system_ and choose the app
 
 To meet the customer requirements and constraints for each scenario, the system is tested on CPU, Integrated GPU, VPU and FPGA. 
 
-### Project steps
+## Project steps
 The project has been developed following the steps below.
-#### Choose best hardware
+### Choose best hardware
 A best hardware choice has initially been determined based on the requirements and needs for each [scenarios](scenarios/SCENARIOS.md). 
 
-The initial choice is documented in the [hardware choice](scenarios/hardware_choice.docx) document. 
+The initial choice is documented in the [hardware choice](hardware_choice.docx) document. 
 
-#### Build application and test
+### Build application
 TODO: Build out your application and job submission code
 
-#### Compare performance
+### Compare performance
 TODO: 
 - Test performance on the DevCloud using multiple hardware types
+--> specify workspace and what has been compared
 - Compare the performance to see which hardware performed best
 
-#### Revise hardware choice
+### Revise hardware choice
 TODO: Revise proposal based on the test results
 
